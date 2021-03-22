@@ -1,0 +1,23 @@
+{
+    "plugins": [
+        "theme-seer"
+    ],
+    "variables": {
+        "themeSeer":{
+            "nav":[
+                {
+                    "url":"http://...",
+                    "target":"_blank",
+                    "name": "简易教程"
+                }
+            ]
+        }
+    },
+    "pluginsConfig": {
+        "theme-seer":{
+            "search-placeholder":"输入关键字搜索",
+            "logo":"./logo.svg",
+            "favicon": "./favicon.ico" 
+        }
+    }
+}
