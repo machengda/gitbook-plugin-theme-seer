@@ -1,5 +1,6 @@
 {
   "name": "gitbook-plugin-theme-seer",
+  "version": "1.0.0",
   "author": {
     "name": "yulongsheng"
   },
@@ -22,6 +23,5 @@
     "type": "git",
     "url": "git+https://github.com/tonyyls/gitbook-plugin-theme-seer.git"
   },
-  "scripts": {},
-  "version": "1.0.5"
+  "scripts": {}
 }
