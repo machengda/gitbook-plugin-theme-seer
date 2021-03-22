@@ -1,6 +1,6 @@
 # Gitbook theme for BingoPaaS Docs
 
-![Image](https://github.com/tonyyls/gitbook-plugin-theme-fexa/blob/master/preview.png)
+![Image](preview.png)
 
 ## Usage
 

@@ -6,9 +6,14 @@
         "themeSeer":{
             "nav":[
                 {
-                    "url":"http://...",
+                    "url":"http://www.baidu.com",
                     "target":"_blank",
-                    "name": "简易教程"
+                    "name": "教程"
+                },
+                {
+                    "url":"http://www.baidu.com",
+                    "target":"_blank",
+                    "name": "官网"
                 }
             ]
         }
