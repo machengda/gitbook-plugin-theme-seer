@@ -1,5 +1,11 @@
 {
     "plugins": [
+        "-sharing",
+        "-fontsettings",
+        "back-to-top-button",
+        "copy-code-button",
+        "cuav-chapters",
+        "heading-anchors",
         "theme-seer"
     ],
     "variables": {

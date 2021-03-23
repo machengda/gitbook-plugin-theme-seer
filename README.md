@@ -1,12 +1,12 @@
 # Gitbook theme for BingoPaaS Docs
 
-![Image](preview.png)
+![Image](preview.jpg)
 
 ## Usage
 
 Add the theme to your book's configuration `book.json` or `book.js`:
 
-```js
+```json
 {
     "plugins": [
         "theme-seer"
@@ -15,21 +15,26 @@ Add the theme to your book's configuration `book.json` or `book.js`:
         "themeSeer":{
             "nav":[
                 {
-                    "url":"http://...",
+                    "url":"http://www.baidu.com",
                     "target":"_blank",
-                    "name": "简易教程"
+                    "name": "教程"
+                },
+                {
+                    "url":"http://www.baidu.com",
+                    "target":"_blank",
+                    "name": "官网"
                 }
             ]
-        },
+        }
     },
     "pluginsConfig": {
         "theme-seer":{
-            "search-placeholder":"输入关键字搜索", //搜索框提示信息
-            "logo":"./logo.png", //logo地址
-            "favicon": "./favicon.ico" //ico地址
+            "search-placeholder":"输入关键字搜索",
+            "logo":"./logo.svg",
+            "favicon": "./favicon.ico" 
         }
     }
-},
+}
 ```
 
 Install by command:
